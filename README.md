@@ -1,2 +1,2 @@
-# oaic_sample_xapp
-Contains the oaic xapp files
+# mr-xapp
+ric-xapp for test

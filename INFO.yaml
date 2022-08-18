@@ -1,0 +1,20 @@
+---
+project: 'oaic-sample-xapp-test1'
+project_creation_date: '2022-08-13'
+project_category: ''
+lifecycle_state: 'Incubation'
+project_lead: &oaic
+    name: 'Mohammadreza Kouchaki'
+    email: 'mk1682@msstate.edu'
+    id: 'mk1682'
+    company: 'oaic'
+    timezone: 'America/New_York'
+primary_contact: *oran_ric_app_lp_ptl
+issue_tracking:
+    type: 
+    url: 'https://github.com/openaicellular/oaic'
+    key: 'oaic-samplexapp-test1'
+
+repositories:
+    - 'https://github.com/openaicellular/oaic-samplexapp-test1'
+
